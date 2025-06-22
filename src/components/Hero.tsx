@@ -21,11 +21,9 @@ const Hero = () => {
               RENAISSANCE
             </span>
             <br />
-            <span className="text-neon-pink animate-neon-pulse">МУЗЫКА</span>
+            <span className="text-neon-pink animate-neon-pulse">ТУСОВКИ</span>
             <br />
-            <span className="text-neon-green animate-neon-pulse">
-              ИСКУССТВО
-            </span>
+            <span className="text-neon-green animate-neon-pulse">КОНЦЕРТЫ</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto font-open-sans">
